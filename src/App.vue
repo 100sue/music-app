@@ -35,17 +35,17 @@ export default {
         {
           title: 'Fuse',
           artist: 'Tropic Fuse',
-          src: './assets/Tropic Fuse - French Fuse.mp3'
+          src: '/Tropic Fuse - French Fuse.mp3'
         },
         {
           title: 'Grateful',
           artist: 'Neffex',
-          src: './assets/neffex-grateful.mp3'
+          src: '/neffex-grateful.mp3'
         },
         {
           title: 'Invincible',
           artist: 'Deaf Kev',
-          src: './assets/deaf-kev-invincible.mp3'
+          src: '/deaf-kev-invincible.mp3'
         }
       ],
       player: new Audio()
